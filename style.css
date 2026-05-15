@@ -213,3 +213,11 @@ section{
     background: white;
     color: black;
 }
+
+
+
+.card{
+    text-decoration: none;
+    color: white;
+    display: block;
+}
